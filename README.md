@@ -1,0 +1,1 @@
+These are my notebooks for the how-to / tutorial at https://medium.com/@joel_34096/k-means-clustering-for-image-classification-a648f28bdc47 for image classification with k-means clustering.
