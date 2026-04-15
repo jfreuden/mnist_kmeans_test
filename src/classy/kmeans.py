@@ -1,6 +1,7 @@
+from typing import Any
+
 import numpy as np
 from numpy import dtype, ndarray
-from typing import Any
 from sklearn import metrics
 
 
